@@ -1,0 +1,1 @@
+player_list_update_interval (Player list update interval in seconds) int 2 0 60
