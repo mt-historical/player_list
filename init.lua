@@ -1,6 +1,6 @@
 local playerlist = {}
 
-local update_interval = minetest.settings:get("player_list_update_interval") or 2
+local update_interval = tonumber(minetest.settings:get("player_list_update_interval")) or 2
 
 local function display_formspec(name)
 
