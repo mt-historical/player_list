@@ -18,8 +18,8 @@ local function display_formspec(name)
     end
 
     local formspec = "size[2,5]" .. default.gui_bg .. default.gui_bg_img ..
-    "textarea[0.25,0;2,1;;Players: " .. total_players .. "/" .. max_players .. ";]" ..
-    "tablecolumns[text,align=left,width=9,padding=0.5;text,align=right,width=3,padding=0.5]" ..
+    "textarea[0.25,0;3,1;;Players: " .. total_players .. "/" .. max_players .. ";]" ..
+    "tablecolumns[text,align=left,width=4.5,padding=0.5;text,align=right,width=3,padding=0.5]" ..
     "tableoptions[background=#000000A0;highlight=#00000000;border=true]" ..
     "table[0,0.5;1.8,3.5;playerlist;" .. playernames .. "]" ..
     "button_exit[0,4.55;2,0.3;accept;Accept]"
