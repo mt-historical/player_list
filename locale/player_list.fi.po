@@ -5,35 +5,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fi\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Last-Translator: Jouni Järvinen <rautajunk@gmail.com>\n"
+"Language-Team: Finnish <https://translate.luanti.ch/projects/mt-mods/"
+"player_list/fi/>\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"PO-Revision-Date: 2026-10-26 12:48+0000\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #: mod.conf
 #: init.lua:68
 msgid "Player List"
-msgstr ""
+msgstr "Pelaajaluettelo"
 
 #: mod.conf
 msgid "A simple mod adding a menu to display all connected players"
 msgstr ""
+"Yksinkertainen lisäosa, joka lisää valikon kaikkien yhdistettyjen pelaajien "
+"näyttämiseksi"
 
 #: init.lua:12
 msgid "Name,Ping,"
-msgstr ""
+msgstr "Nimi,Viive,"
 
 #: init.lua:27
 msgid "Players: @1/@2"
-msgstr ""
+msgstr "Pelaajat: @1/@2"
 
 #: init.lua:35
 msgid "Accept"
-msgstr ""
+msgstr "Hyväksy"
 
 #: init.lua:61
 msgid "Shows the list of players"
-msgstr ""
+msgstr "Näyttää pelaajaluettelon"
 
 #: init.lua:70
 msgid "Show list of players"
-msgstr ""
+msgstr "Näytä pelaajaluettelo"
