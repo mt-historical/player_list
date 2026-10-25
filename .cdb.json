@@ -1,0 +1,13 @@
+{
+	"$schema": "https://content.luanti.org/api/cdb_schema/",
+	"type": "MOD",
+	"title": "Player List",
+	"short_description": "A simple mod adding a menu to display all connected players",
+	"license": "GPL-3.0-only",
+	"media_license": "CC-BY-SA-3.0",
+	"dev_state": "MAINTENANCE_ONLY",
+	"ai_disclosure": "NONE",
+	"tags": ["gui", "multiplayer", "server_tools"],
+	"issue_tracker": "https://github.com/mt-historical/player_list/issues",
+	"repo": "https://github.com/mt-historical/player_list"
+}
