@@ -1,1 +1,0 @@
-A simple mod adding a menu to display all connected players

@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: player_list\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mod.conf
+#: init.lua:68
+msgid "Player List"
+msgstr ""
+
+#: mod.conf
+msgid "A simple mod adding a menu to display all connected players"
+msgstr ""
+
+#: init.lua:12
+msgid "Name,Ping,"
+msgstr ""
+
+#: init.lua:27
+msgid "Players: @1/@2"
+msgstr ""
+
+#: init.lua:35
+msgid "Accept"
+msgstr ""
+
+#: init.lua:61
+msgid "Shows the list of players"
+msgstr ""
+
+#: init.lua:70
+msgid "Show list of players"
+msgstr ""

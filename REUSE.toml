@@ -1,0 +1,34 @@
+version = 1
+
+# Source Code
+[[annotations]]
+path = [
+	"init.lua",
+	"locale/**",
+  "screenshot.png",
+]
+SPDX-FileCopyrightText = [
+	"NONE"
+]
+SPDX-License-Identifier = "GPL-3.0-only"
+
+# Textures
+[[annotations]]
+path = "textures/**"
+SPDX-FileCopyrightText = "Jordach"
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+
+# Metadata/config files
+[[annotations]]
+path = [
+  ".luacheckrc",
+  ".github/**",
+  ".gitattributes",
+  ".cdb.json",
+  "README.md",
+  "mod.conf",
+	"settingtypes.txt"
+]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"
